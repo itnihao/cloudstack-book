@@ -3,7 +3,7 @@ cloudstack-book
 
 cloudstack enterprise private cloud
 
-=
+
 第一章 云计算概念   
 =
 第二章 虚拟化基础
@@ -21,3 +21,4 @@ cloudstack enterprise private cloud
 第八章 构建企业私有专用云
 =
 第九章 用Cloudstack API构建私有云平台
+=
